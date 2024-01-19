@@ -1,10 +1,11 @@
-### Olá! Eu sou o Lucca Rosa 👋
+### Olá! Eu sou o Lucca, tudo bem? 👋
 
 <!--
 **luccarosaa/luccarosaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
+- 📚 Estudando Ciências da Computação pela @Universidade-Livre
 - 🔭 Atualmente participo de projetos envolvendo backend, frontend e banco de dados
 - 🌱 Estudando PHP e JavaScript
 - 😄 Pronouns: ele/dele
