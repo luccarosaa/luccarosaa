@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 📚 Estudando Ciências da Computação pela <a href="https://github.com/Universidade-Livre">@UBL</a>
 - 🔭 Atualmente participo de projetos envolvendo backend, frontend e banco de dados
-- 🌱 Estudando PHP e JavaScript
+- 🌱 Estudando PHP, JavaScript e Python
 - 😄 Pronouns: ele/dele
 
 <div align="center">
