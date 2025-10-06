@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started: -->
 
-- 📚 Estudando Ciências da Computação pela <a href="https://github.com/Universidade-Livre">@UBL</a>
+- 📚 Estudando Análise e Desenvolvimento de Sistemas no IFSP
 - 🔭 Atualmente participo de projetos envolvendo backend, frontend e banco de dados
-- 🌱 Estudando PHP, JavaScript e Python
+- 🌱 Estudando Java, JavaScript e Python
 - 😄 Pronouns: ele/dele
 
 <div align="center">
