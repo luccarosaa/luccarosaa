@@ -73,18 +73,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=luccarosaa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarosaa&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
----
-
 ## 📈 Sequência de contribuições
 
 <div align="center">
